@@ -7,7 +7,7 @@ Built with python and pygame.
 1. Run script
 2. Right click: to set start point
 3. 2nd Right click: set the end point
-4. all aditional right clicks: setobstacles
+4. all aditional right clicks: set obstacles
 
 *LEFT CLICK ON BLOCK TO REMOVE*
 
