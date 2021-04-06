@@ -1,7 +1,7 @@
 # Pathfinder
-A* pathfinder app
+A* pathfinder app, built with python and pygame.
 
-Built with python and pygame.
+This is a visualization tool for solving a maze between two points using the A* algorithm. 
 
 ## INSTUCTIONS
 1. Run script
